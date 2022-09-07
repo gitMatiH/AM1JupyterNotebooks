@@ -1,0 +1,42 @@
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ git init -b main
+Initialized empty Git repository in /home/mati/Documents/AM1/JupyterNotebookAM1/.git/
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ git add . && git commit -m "Commit inicial" >> log.txt
+[main (root-commit) 1973c0e] Commit inicial
+ 2 files changed, 3176 insertions(+)
+ create mode 100644 log.txt
+ create mode 100644 practica_1.ipynb
+ 
+ mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ sudo snap install gh       # version 2.6.0-15-g1a10fd5a, or
+gh 2.6.0-15-g1a10fd5a from Casper (casper-dcl) installed
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ gh repo create
+Welcome to GitHub CLI!
+
+To authenticate, please run `gh auth login`.
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ gh auth login
+? What account do you want to log into? GitHub.com
+? What is your preferred protocol for Git operations? HTTPS
+? Authenticate Git with your GitHub credentials? Yes
+? How would you like to authenticate GitHub CLI? Paste an authentication token
+Tip: you can generate a Personal Access Token here https://github.com/settings/tokens
+The minimum required scopes are 'repo', 'read:org', 'workflow'.
+? Paste your authentication token: ****************************************
+error validating token: missing required scope 'read:org'
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ 
+
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ git config --list
+user.email=mailmatiash@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ git config --global user.name gitMatiH
+mati@mati-900X3F:~/Documents/AM1/JupyterNotebookAM1$ git config --list
+user.email=mailmatiash@gmail.com
+user.name=gitMatiH
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+mati@mati-900X3F:~/Documents
+
+
