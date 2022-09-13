@@ -2,6 +2,7 @@
 <p>
 Complete linear algebra: theory and implementation in code <br>
 https://www.udemy.com/course/linear-algebra-theory-and-implementation <br>
+https://github.com/mikexcohen/LinAlgCourse <br>
 agregar paginas de howto y stackoverflow <br>
  <br>
 1st Year Calculus, But in PYTHON <br>
