@@ -18,4 +18,13 @@ https://www.youtube.com/watch?v=2SpuBqvNjHI <br>
  <br>
 Sympy: How to Solve Equations and Tips [Tutorial 2021] <br>
 https://www.youtube.com/watch?v=nNsM97lnbMs <br>
+ <br>
+SymPy is REVOLUTIONARY For Mathematical Tasks <br>
+https://www.youtube.com/watch?v=yCuVBd4N4nY <br>
+ <br>
+Simulating Real-Life Processes in Python <br>
+https://www.youtube.com/watch?v=8SLk_uRRcgc <br>
+ <br>
+Getting Started Simulating Real-World Processes in Python with SimPy <br>
+https://www.youtube.com/watch?v=NypbxgytScM <br>
 </p>
