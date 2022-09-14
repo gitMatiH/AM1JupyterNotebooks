@@ -15,4 +15,7 @@ https://www.youtube.com/watch?v=QUT1VHiLmmI <br>
  <br>
 Maths for Programmers Tutorial - Full Course on Sets and Logic <br>
 https://www.youtube.com/watch?v=2SpuBqvNjHI <br>
+ <br>
+Sympy: How to Solve Equations and Tips [Tutorial 2021] <br>
+https://www.youtube.com/watch?v=nNsM97lnbMs <br>
 </p>
